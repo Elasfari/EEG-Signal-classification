@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains the code and documentation for the data science project developed as part of the course at the Polytechnic University of Madrid. The main objective of the project is to perform the classification of motor imagery EEG signals in patients with high uncertainty using a Spectral Transformer.
+This repository contains the code and documentation for the Artificial neural Network project developed as part of the course at the Nile University of Egypt. The main objective of the project is to perform the classification of motor imagery EEG signals in patients with high uncertainty using a Spectral Transformer.
 
 ## Repository Structure
 
